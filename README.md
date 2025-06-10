@@ -1,6 +1,5 @@
 # 👋 Hi, I'm sho
 
-
 ## Experience
 - Sales & Marketing: 4 years
 - Engineering: Over 6 years (including Pre-Sales & Post-Sales Engineering)
@@ -26,14 +25,16 @@
 -  Basketball, Boxing, Surfing
 -  Deep, philosophical talks
 
-
-
 ---
 # 日本語でOK
 
 ## 経験値
+今はエンジニアやってます。
 - 営業とマーケティングを4年ほど経験（就活市場というオウンドメディアを立ち上げ0PVから30万PV以上）
 - 分析からデータ構築をメインとしたPre\Postエンジニアとして6年以上（未経験から始めて年収3倍以上）
 - プロダクトがまだ整っていない段階のスタートアップ（シリーズA〜B）で、ユースケースやワークフローの仕組みづくりと自動化
 - 顧客課題から解決までの共通項目を見出しプロダクトチームへのフィードバック
+
+
+  
 
