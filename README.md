@@ -1,14 +1,17 @@
 # 👋 Hi, I'm sho
 
 
-## Pre & Post Sales Engineer
-  技術とビジネスの橋渡し役として、顧客価値の最大化を支援しています。
+## Experience
+- Sales & Marketing: 4 years
+- Engineering: Over 6 years (including Pre-Sales & Post-Sales Engineering)
+
+  
 
 ---
 
 ## 🚀 What I Do 
   SaaSシステムでは解決できない課題を技術的に解決する
-  Upsell, Xcellのお手伝い
+  Upsell, Xsellのお手伝い
 
 
 ## Skill
