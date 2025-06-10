@@ -1,15 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**shonagase/shonagase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SaaSを成功させるための、Pre / Post セールスエンジニアです。
+💡 技術とビジネスの橋渡し役として、顧客価値の最大化を支援しています。
 
-Here are some ideas to get you started:
+---
 
-- Job: Pre/Post Sales engineer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+
+
+
+I'm a Pre & Post Sales Engineer specialized in SaaS growth.
+I turn customer pain points into scalable technical solutions.
